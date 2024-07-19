@@ -1,0 +1,40 @@
+.hero-section {
+    background: url('vecteezy_background-nature-flower-mexican-aster-purple-flowers_3823523.jpg') no-repeat center center;
+    background-size: cover;
+    color: black;
+    text-align: center;
+    padding: 75px 0;
+}
+.hero-section h1 {
+    font-size: 3em;
+    margin: 0;
+}
+.services-section, .contact-section {
+    padding: 50px 0;
+}
+
+.contact-section {
+    background: url('beautiful-blooming-flowers-spring-season.jpg') no-repeat center center;
+    background-size: cover;
+    color: blue;
+    text-align: center;
+    padding: 60 0;
+}
+
+
+.contact-section {
+    background: url('beautiful-blooming-flowers-spring-season.jpg') no-repeat center center;
+    background-size: cover;
+    color: aqua;
+    text-align: center;
+
+}
+.hero-service {
+    background: url('bunch-flowers-with-pink-yellow-background.jpg') no-repeat center center;
+    background-size: cover;
+    color: black;
+    text-align: center;
+    padding: 30 0;
+}
+
+
